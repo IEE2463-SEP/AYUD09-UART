@@ -1,5 +1,5 @@
 # AYUD09-UART
-1. Previo a nuestra ayudantía debes revisar este [video]([https://youtu.be/3dn__gzqBcg](https://youtu.be/3dn__gzqBcg)) y ejecutarlo en tu casa.
+1. Previo a nuestra ayudantía debes revisar este [video](https://youtu.be/3dn__gzqBcg) y ejecutarlo en tu casa.
 2. Los documentos asociados a la ejecución de esta ayudantía son:
     * [AYUD09-Guia Ejercicio](Por subir):  Guía de ejercicios asociado a la ayudantía. 
     * [AYU09.zip](Por subir): El cual contiene el proyecto en vivado.
